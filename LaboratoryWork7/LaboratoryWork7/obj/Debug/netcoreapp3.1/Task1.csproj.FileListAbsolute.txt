@@ -1,0 +1,14 @@
+E:\NewVSCODE\Lab7OOP\LaboratoryWork7\LaboratoryWork7\bin\Debug\netcoreapp3.1\Task1.exe
+E:\NewVSCODE\Lab7OOP\LaboratoryWork7\LaboratoryWork7\bin\Debug\netcoreapp3.1\Task1.deps.json
+E:\NewVSCODE\Lab7OOP\LaboratoryWork7\LaboratoryWork7\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+E:\NewVSCODE\Lab7OOP\LaboratoryWork7\LaboratoryWork7\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+E:\NewVSCODE\Lab7OOP\LaboratoryWork7\LaboratoryWork7\bin\Debug\netcoreapp3.1\Task1.dll
+E:\NewVSCODE\Lab7OOP\LaboratoryWork7\LaboratoryWork7\bin\Debug\netcoreapp3.1\Task1.pdb
+E:\NewVSCODE\Lab7OOP\LaboratoryWork7\LaboratoryWork7\obj\Debug\netcoreapp3.1\Task1.csproj.AssemblyReference.cache
+E:\NewVSCODE\Lab7OOP\LaboratoryWork7\LaboratoryWork7\obj\Debug\netcoreapp3.1\Task1.GeneratedMSBuildEditorConfig.editorconfig
+E:\NewVSCODE\Lab7OOP\LaboratoryWork7\LaboratoryWork7\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+E:\NewVSCODE\Lab7OOP\LaboratoryWork7\LaboratoryWork7\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+E:\NewVSCODE\Lab7OOP\LaboratoryWork7\LaboratoryWork7\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+E:\NewVSCODE\Lab7OOP\LaboratoryWork7\LaboratoryWork7\obj\Debug\netcoreapp3.1\Task1.dll
+E:\NewVSCODE\Lab7OOP\LaboratoryWork7\LaboratoryWork7\obj\Debug\netcoreapp3.1\Task1.pdb
+E:\NewVSCODE\Lab7OOP\LaboratoryWork7\LaboratoryWork7\obj\Debug\netcoreapp3.1\Task1.genruntimeconfig.cache
