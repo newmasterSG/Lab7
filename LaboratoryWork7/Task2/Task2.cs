@@ -8,10 +8,10 @@ namespace Task2
 
         public static int Methods(MyDel[] array)
         {
-            int x = 0;
+            int x = 1;
             foreach (MyDel del in array)
             {
-                x += del();
+                x *= del();
             }
             x /= array.Length;
             Console.WriteLine(x);
